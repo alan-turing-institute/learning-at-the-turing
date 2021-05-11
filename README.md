@@ -1,4 +1,7 @@
 ![header3-learning-at-the-turing-06](https://user-images.githubusercontent.com/39628884/117806086-bdb84f80-b251-11eb-9e62-3236dbd1c797.png)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 #  The Alan Turing Institute: Learning at the Turing 
 
 
@@ -54,3 +57,23 @@ This project is currently maintained by [Mishka Nemes](https://github.com/mishka
 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/mishkanemes"><img src="https://avatars.githubusercontent.com/u/39628884?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mishkanemes</b></sub></a><br /><a href="#platform-mishkanemes" title="Packaging/porting to new platform">📦</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

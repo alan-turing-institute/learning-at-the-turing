@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mishkanemes",
+      "name": "mishkanemes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39628884?v=4",
+      "profile": "https://twitter.com/mishkanemes",
+      "contributions": [
+        "platform"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "learning-at-the-turing",
+  "projectOwner": "mishkanemes",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
