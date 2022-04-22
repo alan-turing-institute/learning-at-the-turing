@@ -54,4 +54,4 @@ The Institute encourages applications from all applicants and welcomes non-stand
 
  
 # When can you apply? 
-The data science and AI educator programme has been developed under a creative common license and is open for applications. Further information, including how to apply, can be found [here (https://www.eventsforce.net/turingevents/182/home)] . Additionally, please join our data science education interest group for further updates and information. 
+The data science and AI educator programme has been developed under a creative common license and is open for applications. Further information, including how to apply, can be found [here](https://www.eventsforce.net/turingevents/182/home). Additionally, please join our data science education interest group for further updates and information. 
