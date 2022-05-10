@@ -28,6 +28,10 @@ The current training provision part of the *Learning at the Turing* initiative i
 | Mathematics of Machine Learning | Developing |
 | [Assessing and Mitigating Bias in AI](https://github.com/alan-turing-institute/T01-bias-in-AI) | Developing |
 
+# Data Science and AI educational resources 
+
+[Data Science and AI Educators' Programme](https://github.com/alan-turing-institute/ds-ai-educators-programme)
+
 # Contributing
 
 This repository is always a work in progress and **everyone** is encouraged to help us develop and deliver training resources that will be useful to the wider community of learners.
